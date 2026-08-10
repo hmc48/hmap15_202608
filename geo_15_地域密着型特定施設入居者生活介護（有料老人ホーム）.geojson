@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_15_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "有料老人ホームくるみの杜【地域密着型特定施設入居者生活介護（有料老人ホーム）】新潟県新潟市北区葛塚３４８７番地", "url": "https://www.kaigokensaku.mhlw.go.jp/15/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1590100564-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 139.219049, 37.9232038 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　おもしろ荘【地域密着型特定施設入居者生活介護（有料老人ホーム）】新潟県長岡市北荷頃３４番地２", "url": "https://www.kaigokensaku.mhlw.go.jp/15/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1590200513-00&ServiceCd=361&Type=search", "url2": "http://www.okuetsu-buhin.co.jp/care/" }, "geometry": { "type": "Point", "coordinates": [ 138.984398899999974, 37.4605044 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　アシスト高町【地域密着型特定施設入居者生活介護（有料老人ホーム）】長岡市高町2-59-363", "url": "https://www.kaigokensaku.mhlw.go.jp/15/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1590200778-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 138.865250564418034, 37.416986248507435 ] } }
+]
+}
