@@ -3,8 +3,8 @@
 "name": "geo_15_短期入所療養介護（介護医療院）",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "介護医療院　尾山愛広苑【短期入所療養介護（介護医療院）】新潟県新潟市北区木崎754", "url": "https://www.kaigokensaku.mhlw.go.jp/15/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=15B0100098-00&ServiceCd=551&Type=search", "url2": "http://www.aiko.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.1727369, 37.9307754 ] } },
-{ "type": "Feature", "properties": { "内容": "介護医療院　アビラ大形【短期入所療養介護（介護医療院）】新潟県新潟市東区一日市80番地", "url": "https://www.kaigokensaku.mhlw.go.jp/15/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=15B0100080-00&ServiceCd=551&Type=search", "url2": "https://www.avilla-ogata.com" }, "geometry": { "type": "Point", "coordinates": [ 139.13461860000001, 37.9223138 ] } },
-{ "type": "Feature", "properties": { "内容": "山北徳新会介護医療院【短期入所療養介護（介護医療院）】新潟県村上市勝木1340-1山北徳洲会病院　4階", "url": "https://www.kaigokensaku.mhlw.go.jp/15/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=15B1200020-00&ServiceCd=551&Type=search", "url2": "http://sanpoku-hp.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.516478, 38.4903215 ] } }
+{ "type": "Feature", "properties": { "内容": "介護医療院　尾山愛広苑【短期入所療養介護（介護医療院）】新潟県新潟市北区木崎754", "url2": "https://www.kaigokensaku.mhlw.go.jp/15/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=15B0100098-00&ServiceCd=551&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.1727369, 37.9307754 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院　アビラ大形【短期入所療養介護（介護医療院）】新潟県新潟市東区一日市80番地", "url2": "https://www.kaigokensaku.mhlw.go.jp/15/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=15B0100080-00&ServiceCd=551&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.13461860000001, 37.9223138 ] } },
+{ "type": "Feature", "properties": { "内容": "山北徳新会介護医療院【短期入所療養介護（介護医療院）】新潟県村上市勝木1340-1山北徳洲会病院　4階", "url2": "https://www.kaigokensaku.mhlw.go.jp/15/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=15B1200020-00&ServiceCd=551&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.516478, 38.4903215 ] } }
 ]
 }
