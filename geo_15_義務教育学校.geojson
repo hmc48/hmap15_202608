@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_15_義務教育学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "15204", "P29_002": "C215220400014", "P29_003": "16014", "P29_004": "大崎学園", "P29_005": "新潟県三条市東大崎1-14-74", "P29_006": "3", "P29_007": "1", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 138.993701931694488, 37.625639093343082 ] } }
+]
+}

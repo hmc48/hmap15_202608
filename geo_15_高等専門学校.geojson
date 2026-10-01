@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_15_高等専門学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "15202", "P29_002": "G115110105302", "P29_003": "16005", "P29_004": "長岡工業高等専門学校", "P29_005": "新潟県長岡市西片貝町888", "P29_006": "1", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 138.888866659489253, 37.43275087345679 ] } }
+]
+}
